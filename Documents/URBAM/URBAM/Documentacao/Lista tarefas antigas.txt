@@ -1,0 +1,21 @@
+CADASTROS	
+	Cadastros Básicos
+GESTÃO DE OCORRÊNCIAS	
+	Abertura de chamados 
+	Monitoramento de ocorrências 
+	Encaminhamento de chamados paras as viaturas 
+	Edição de informações, vinculação de anexos 
+VIATURAS	
+	Cadastro e atualização de viaturas 
+	Controle de entrada/saída 
+	Rastreamento e armazenamento de rotas 
+
+
+MOBILE	
+	Abertura de chamados 
+	Alerta de ocorrências encaminhadas
+	Atendimento de ocorrências 
+	Upload de arquivos 
+	Vinculação de envolvidos 
+	Envio de localização sequenciado
+	Reconhecimento facial
